@@ -5,5 +5,4 @@
 
 ・https://twitter.com/1S1STM
 
-・Hi, I'm a French learner about IT
-・I'm 18y old.
+・Hi, I'm a 18y old French learner about IT
