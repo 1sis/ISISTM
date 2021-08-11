@@ -3,4 +3,4 @@
 
 🐤・See my twitter ! https://twitter.com/1S1STM
 
-🐸・, I'm a 18y old French learner about IT
+🐸・I'm a 18y old French learner about IT
