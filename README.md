@@ -5,9 +5,7 @@
 - ❤️ I love learning about IT !
 - 💻 I am not the best, hold it back ! 😄
 - 💼 I do this for fun, why not professionally ?
-- 🤝 Owner of In Your Shell with <a href="https://github.com/RealAlphabet"> @RealAlphabet </a>
   
-
 -----------------------------
 
 <h1>How to contact me ? 📝</h1>
