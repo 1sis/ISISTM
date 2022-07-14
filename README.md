@@ -1,18 +1,16 @@
-### Hello everyone ! I'm Kévin aka ISISTM !
-<img src="https://bestanimations.com/Signs&Shapes/Worship/Ankh/ankh-gold-black-symbol-moving-animated-gif-8.gif" width="80"></a>
+<h1 align="center"><ins>Isis</ins></h1>
+<h3 align="center"><img src="https://bestanimations.com/Signs&Shapes/Worship/Ankh/ankh-gold-black-symbol-moving-animated-gif-8.gif" width="300"></h3>
 
-- 👦 I am an 19 year old French
-- ❤️ I love learning about IT !
-- 💻 I am not the best, hold it back ! 😄
-- 💼 I do this for fun, why not professionally ?
-  
+  -  🇲🇫 19yo IT student
+  -  💭 Thinking opensource can change the world
+  -  💻 Learn for give goods projects for community
+  -  ⭐ I want open my blog for share somes tips / write-ups !
 -----------------------------
+<h2><ins>Contact</ins></h2>
 
-<h1>How to contact me ? 📝</h1>
-<br>
-<a href="https://discord.gg/InYourShell"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/0/05/Discord.svg/1200px-Discord.svg.png" width="60"></a>
-<a href="https://twitter.com/1S1STM"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsguru.org%2Fwp-content%2Fuploads%2F2018%2F02%2Ftwitter-circled.png&f=1&nofb=1" width="60"></a>
-<a href="https://InYourShell.com"><img src="https://cdn.shopify.com/s/files/1/1061/1924/products/Emoji_Earth_Globe_Europe_Africa_grande.png?v=1480481025" width="55"></a>
-
+  - 📗 Mail : <a href ="mailto:contact@isis.sh">contact@isis.sh </a>
+  - 📘 Root-me : <a href="redirect">https://root-me.org/Steganographie</a>
+  - 📕 HackTheBox : <a href="redirect">https://app.hackthebox.com/profile/656575</a>
+  - 📙 Discord : Isis#1337
 -----------------------------
 
